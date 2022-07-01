@@ -14,7 +14,7 @@ public class TupleTest2 {
         return Tuple.tuple("hi",47);
     }
 
-    static Tuple3<Amphibian,String,Integer> g(){
+    public static Tuple3<Amphibian,String,Integer> g(){
         return Tuple.tuple(new Amphibian(),"hi",47);
     }
 
