@@ -6,5 +6,5 @@ package com.growth.onjava.generics.boundary;
  * @date 2022/7/4 8:03 AM
  */
 public class Coord {
-    protected int x, y, z;
+    public int x, y, z;
 }

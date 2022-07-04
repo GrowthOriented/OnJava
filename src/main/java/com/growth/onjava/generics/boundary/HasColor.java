@@ -5,6 +5,6 @@ package com.growth.onjava.generics.boundary;
  * @email GrowthOriented@163.com
  * @date 2022/7/4 8:00 AM
  */
-interface  HasColor {
+public interface  HasColor {
     java.awt.Color getColor();
 }

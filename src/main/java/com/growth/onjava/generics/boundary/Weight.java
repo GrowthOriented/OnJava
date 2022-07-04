@@ -6,5 +6,5 @@ package com.growth.onjava.generics.boundary;
  * @date 2022/7/4 8:10 AM
  */
 public interface Weight {
-    int weight();
+    public int weight();
 }
